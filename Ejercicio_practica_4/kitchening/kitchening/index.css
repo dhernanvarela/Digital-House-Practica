@@ -1,0 +1,7 @@
+@media (max-width: 426px){
+    div container{
+        max-width: 80%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}
